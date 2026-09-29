@@ -1,0 +1,9 @@
+dist/
+release/
+artifacts/
+*.tmp-*
+*.user
+*.suo
+.vs/
+bin/
+obj/
